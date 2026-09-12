@@ -1,1 +1,9 @@
-     2	anikeropian
+anikeropian (7):
+      feat: добавлен main.py с приветсвием
+      feat: добавлена вторая строка в main.py (второй коммит)
+      feat: добавлены utils.py, test.py, README.md, report.txt
+      chore: добавлен .gitignore для Python-проекта
+      feat: добавлен feature_module с функциями multiply и divide
+      merge: слияние ветки feature в master (задание №6)
+      fix: исправлена функция greet в utils.py
+
