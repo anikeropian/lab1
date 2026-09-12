@@ -1,2 +1,3 @@
-def greet(Ani):
-    return f'Barev, Ani'
+def greet(name):
+    """Возвращает приветствие для указанного имени."""
+    return f'Barev, {name}!'
